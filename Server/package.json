@@ -1,0 +1,30 @@
+{
+  "name": "init",
+  "version": "1.0.0",
+  "description": "RennTek Studios Node Project",
+  "main": "y",
+  "dependencies": {
+    "express": "^4.12.4",
+    "shortid": "^2.2.2",
+    "socket.io": "^1.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node Server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renntekstudios/RennTek-Studios-Node-Project.git"
+  },
+  "keywords": [
+    "RennTek",
+    "Studios"
+  ],
+  "author": "Jake Saxton",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/renntekstudios/RennTek-Studios-Node-Project/issues"
+  },
+  "homepage": "https://github.com/renntekstudios/RennTek-Studios-Node-Project#readme"
+}
